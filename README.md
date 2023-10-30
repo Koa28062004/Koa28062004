@@ -26,7 +26,7 @@
 </p>
 
 <div align="center">
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=koa28062004&show_icons=true&locale=en&layout=compact" alt="koa28062004" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=koa28062004&show_icons=true&theme=dracula&text_color=ffffff&locale=en&layout=compact" alt="koa28062004" /></p>
 
-  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=koa28062004&show_icons=true&locale=en" alt="koa28062004" /></p>
+  <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=koa28062004&show_icons=true&theme=dracula&locale=en" alt="koa28062004" /></p>
 </div>
